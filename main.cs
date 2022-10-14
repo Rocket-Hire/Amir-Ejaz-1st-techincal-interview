@@ -16,7 +16,7 @@ class Program
         // var tuple = GetTargetIndices(list, 6);
         // if(tuple == null) return;
         // Console.WriteLine(tuple.Item1 + ", " + tuple.Item2);
-        int number = 09; 
+        int number = 1441; 
         if(IsPalindrome(number))
           Console.WriteLine(number + " is a palindrome");
         else
